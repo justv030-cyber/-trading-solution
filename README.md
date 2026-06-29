@@ -10,7 +10,7 @@ npm run chain
 npm run deploy
 
 4. Start frontend app
-node server.js
+npm run dev 
 
 
 ##  Improvements if given more time
